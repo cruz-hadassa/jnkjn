@@ -5,3 +5,4 @@ if(happy=="happy"):
   print("Good you are happy")
 else(happy!= "happy"):
   print("Oh no. you are not happy")
+hi people please work
