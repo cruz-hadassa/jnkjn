@@ -7,4 +7,4 @@ if ( happy != "happy" ):
   print ( "Oh no. you are not happy" )
   print ( "hi people please work" ) 
   print ( "i hope this still works" )
-  fuwygfueigdfish
+  print ("fuwygfueigdfish")
