@@ -1,4 +1,3 @@
-# jnkjn
 print ( "Hello world" )
 happy = input ( "Enter if you are happy." )
 if ( happy=="happy" ):
