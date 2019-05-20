@@ -10,4 +10,3 @@ print("how do i run this")
 i really hope all of this works please for the love of god work
 maybe it does work... now i just have to run it :\
 '''
-hi
